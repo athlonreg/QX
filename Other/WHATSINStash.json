@@ -1,0 +1,474 @@
+{
+    "name": "WHATSINStash Iconset",
+    "description": "WHATSINStash Iconset.",
+    "icons": [
+        {
+            "name": "$tash",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/%24tash.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/loon.png"
+        },
+        {
+            "name": "Friestash",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/friestash.png"
+        },
+        {
+            "name": "Select",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/select.png"
+        },
+        {
+            "name": "Fallback",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/fallback.png"
+        },
+        {
+            "name": "Load Balance",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/loadbalance.png"
+        },
+        {
+            "name": "URL Test",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/urltest.png"
+        },
+        {
+            "name": "Relay",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/relay.png"
+        },
+        {
+            "name": "Statue of Liberty",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/statueofliberty.png"
+        },
+        {
+            "name": "Obelisco de Buenos Aires",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/obeliscodebuenosaires.png"
+        },
+        {
+            "name": "White House",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/thewhitehouse.png"
+        },
+        {
+            "name": "Sydney Opera House",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/sydneyoperahouse.png"
+        },
+        {
+            "name": "Taipei 101",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/taipei101.png"
+        },
+        {
+            "name": "Petronas Towers",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/petronastowers.png"
+        },
+        {
+            "name": "Federal Assembly",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/thefederalassembly.png"
+        },
+        {
+            "name": "Blue Mosque",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/thebluemosque.png"
+        },
+        {
+            "name": "Ruins of Saint Pauls",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/ruinsofsaintpauls.png"
+        },
+        {
+            "name": "Chiang Kai-Shek Memorial House",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/chiangkaishekmemorialhouse.png"
+        },
+        {
+            "name": "Merlion",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/merlion.png"
+        },
+        {
+            "name": "Saint Basil's Cathedral",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/saintbasilscathedral.png"
+        },
+        {
+            "name": "Gyeongbokgung Palace",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/gyeongbokgungpalace.png"
+        },
+        {
+            "name": "Eiffel Tower",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/eiffeltower.png"
+        },
+        {
+            "name": "Skylines",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/skylines.png"
+        },
+        {
+            "name": "National Monument",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/nationalmonument.png"
+        },
+        {
+            "name": "Leaning Tower of Pisa",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/leaningtowerofpisa.png"
+        },
+        {
+            "name": "Torri",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/torii.png"
+        },
+        {
+            "name": "Taj Mahal",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/tajmahal.png"
+        },
+        {
+            "name": "Colosseum",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/colosseum.png"
+        },
+        {
+            "name": "Brandenburg Gate",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/brandenburggate.png"
+        },
+        {
+            "name": "Great Wall",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/thegreatwall.png"
+        },
+        {
+            "name": "CN Tower",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/cntower.png"
+        },
+        {
+            "name": "Christ the Redeemer",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/christtheredeemer.png"
+        },
+        {
+            "name": "Big Ben",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/bigben.png"
+        },
+        {
+            "name": "London Eye",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/londoneye.png"
+        },
+        {
+            "name": "Stone Henge",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/stonehenge.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/apple.png"
+        },
+        {
+            "name": "Apple Spring Loaded",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applespringloaded.png"
+        },
+        {
+            "name": "Apple WWDC23",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applewwdc23.png"
+        },
+        {
+            "name": "Apple Books",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applebooks.png"
+        },
+        {
+            "name": "Apple Music",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applemusic.png"
+        },
+        {
+            "name": "Apple News",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applenews.png"
+        },
+        {
+            "name": "Apple Arcade",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applearcade.png"
+        },
+        {
+            "name": "Apple Game Center",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applegamecenter.png"
+        },
+        {
+            "name": "Apple iCloud",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/appleicloud.png"
+        },
+        {
+            "name": "Apple Mail",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applemail.png"
+        },
+        {
+            "name": "Apple Messages",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applemessages.png"
+        },
+        {
+            "name": "Apple FaceTime",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applefacetime.png"
+        },
+        {
+            "name": "Apple Safari",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applesafari.png"
+        },
+        {
+            "name": "Apple App Store",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/appleappstore.png"
+        },
+        {
+            "name": "Apple iTunes Store",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/appleitunesstore.png"
+        },
+        {
+            "name": "Apple Home",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applehome.png"
+        },
+        {
+            "name": "Apple Wallet",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/applewallet.png"
+        },
+        {
+            "name": "Adguard",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/adguard.png"
+        },
+        {
+            "name": "Anthropic",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/anthropic.png"
+        },
+        {
+            "name": "Baidu",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/baidu.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/bilibili.png"
+        },
+        {
+            "name": "Bilibili TV",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/bilibilitv.png"
+        },
+        {
+            "name": "Bing",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/bing.png"
+        },
+        {
+            "name": "Discord",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/discord.png"
+        },
+        {
+            "name": "Disney+",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/disneyplus.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/google.png"
+        },
+        {
+            "name": "Hulu",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/hulu.png"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/linkedin.png"
+        },
+        {
+            "name": "Meta",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/meta.png"
+        },
+        {
+            "name": "Microsoft",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/microsoft.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/netflix.png"
+        },
+        {
+            "name": "Open AI",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/openai.png"
+        },
+        {
+            "name": "Play Station",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/playstation.png"
+        },
+        {
+            "name": "Prime Video",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/primevideo.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/spotify.png"
+        },
+        {
+            "name": "Switch",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/switch.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/telegram.png"
+        },
+        {
+            "name": "Tencent",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/tencent.png"
+        },
+        {
+            "name": "Threads",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/threads.png"
+        },
+        {
+            "name": "Tinder",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/tinder.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/tiktok.png"
+        },
+        {
+            "name": "Twitch",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/twitch.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/twitter.png"
+        },
+        {
+            "name": "Vercel;",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/vercel.png"
+        },
+        {
+            "name": "WeChat",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/wechat.png"
+        },
+        {
+            "name": "Weibo",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/weibo.png"
+        },
+        {
+            "name": "X",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/x.png"
+        },
+        {
+            "name": "XBOX",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/xbox.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/youtube.png"
+        },
+        {
+            "name": "Zhihu",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/zhihu.png"
+        },
+        {
+            "name": "AWS",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/aws.png"
+        },
+        {
+            "name": "Azure",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/azure.png"
+        },
+        {
+            "name": "Cisco",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/cisco.png"
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/cloudflare.png"
+        },
+        {
+            "name": "GCP",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/gcp.png"
+        },
+        {
+            "name": "Oracle",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/oracle.png"
+        },
+        {
+            "name": "Tecent Cloud",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/tencentcloud.png"
+        },
+        {
+            "name": "Atomlantis Cloud",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/atomlantiscloud.png"
+        },
+        {
+            "name": "Blinkload",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/blinkload.png"
+        },
+        {
+            "name": "Blinkload B",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/blinkloadB.png"
+        },
+        {
+            "name": "DegYax 1",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/degyax1.png"
+        },
+        {
+            "name": "DegYax 2",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/degyax2.png"
+        },
+        {
+            "name": "DegYax 3",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/degyax3.png"
+        },
+        {
+            "name": "Dler Cloud",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/dlercloud.png"
+        },
+        {
+            "name": "FishChips",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/fishchips.png"
+        },
+        {
+            "name": "FishChips Official",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/fishchips0.png"
+        },
+        {
+            "name": "GLaDos",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/glados.png"
+        },
+        {
+            "name": "InfiniPort",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/infiniport.png"
+        },
+        {
+            "name": "iQZone",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/iqzone.png"
+        },
+        {
+            "name": "Magic School",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/magicschool.png"
+        },
+        {
+            "name": "Texon",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/texon.png"
+        },
+        {
+            "name": "Texon Head",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/texonhead.png"
+        },
+        {
+            "name": "Texon's Lab",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/texonslab.png"
+        },
+        {
+            "name": "V2Tun",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/v2tun.png"
+        },
+        {
+            "name": "WARP",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/warp.png"
+        },
+        {
+            "name": "WARP Comet",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/warpcomet.png"
+        },
+        {
+            "name": "WireGuard",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/wireguard.png"
+        },
+        {
+            "name": "Riot Games",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/riotgames.png"
+        },
+        {
+            "name": "BetaHub",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/betahub.png"
+        },
+        {
+            "name": "iRingo",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/iringo.png"
+        },
+        {
+            "name": "Sub-Store",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/substore.png"
+        },
+        {
+            "name": "Hogwarts",
+            "url": "https://cdn.jsdelivr.net/gh/shindgewongxj/WHATSINStash/icon/hogwarts.png"
+        }
+    ]
+}
